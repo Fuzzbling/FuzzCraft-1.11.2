@@ -59,7 +59,7 @@
       blockNiceName: Lead
       meta: 12
       veinSize: 6
-      veinsPerChunk: 16
+      veinsPerChunk: 0
       minYHeight: 20
       maxYHeight: 60
       shouldSpawn: true
@@ -69,7 +69,7 @@
       blockNiceName: Silver
       meta: 13
       veinSize: 6
-      veinsPerChunk: 16
+      veinsPerChunk: 0
       minYHeight: 20
       maxYHeight: 60
       shouldSpawn: true
@@ -79,7 +79,7 @@
       blockNiceName: Copper
       meta: 0
       veinSize: 8
-      veinsPerChunk: 16
+      veinsPerChunk: 0
       minYHeight: 20
       maxYHeight: 60
       shouldSpawn: true
